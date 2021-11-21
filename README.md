@@ -6,4 +6,4 @@ This is the alpha version, for demo purposes only.
 # Build game
 **File > Package Project > Windows 64bit > Done!**
 
-Or use our [installer](https://github.com/indiebox/the-tower-installer) to install the game.
+Or use our [installer](https://sourceforge.net/projects/the-tower/) to install the game.
